@@ -37,7 +37,7 @@ export default class App extends Component {
           </div>
         </div>
         <div className="fixed bottom-0 bg-my-red-300 w-full py-2">
-          <span className="text-my-abu-100 ml-2">Yosep Sawaki</span>
+          <span className="text-my-abu-100 ml-2">copyright &copy; Yosep</span>
         </div>
       </div>
     );
